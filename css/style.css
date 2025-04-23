@@ -625,9 +625,14 @@ header .navbar a:hover{
     line-height: 2;
 }
 
-.contact span a{
+.contact .content span a{
     color:var(--purple);
     text-transform: lowercase;
+}
+.contact .content span i{
+    color:var(--purple);
+    font-size: 5rem;
+    padding:1rem 0;
 }
 
 .footer{
