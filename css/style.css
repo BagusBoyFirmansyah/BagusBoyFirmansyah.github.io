@@ -627,7 +627,6 @@ header .navbar a:hover{
 
 .contact .content span a{
     color:var(--purple);
-    text-transform: lowercase;
 }
 .contact .content span i{
     color:var(--purple);
